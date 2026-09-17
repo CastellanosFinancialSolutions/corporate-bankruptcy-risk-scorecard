@@ -1,0 +1,6 @@
+"grado","n_empresas","n_quiebras","tasa_quiebra_pct","score_min","score_max","score_promedio"
+"Grado 1",406,0,0,807,1110,879
+"Grado 2",409,0,0,697,806,750
+"Grado 3",407,0,0,587,696,641
+"Grado 4",414,7,1.69,441,585,516
+"Grado 5",410,59,14.39,-21,440,312

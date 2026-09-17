@@ -1,0 +1,170 @@
+"variable","bin","woe","points"
+"ROA.A..before.interest.and...after.tax","[-Inf,0.48)",1.94007568310591,-25
+"ROA.A..before.interest.and...after.tax","[0.48,0.53)",0.87100597282727,-11
+"ROA.A..before.interest.and...after.tax","[0.53,0.55)",-0.0767025682038684,1
+"ROA.A..before.interest.and...after.tax","[0.55,0.58)",-1.65100957176119,22
+"ROA.A..before.interest.and...after.tax","[0.58, Inf)",-3.89475416473231,51
+"Operating.Gross.Margin","[-Inf,0.594)",1.83430485492096,-52
+"Operating.Gross.Margin","[0.594,0.6)",0.5130813392662,-15
+"Operating.Gross.Margin","[0.6,0.606)",-0.134085647053187,4
+"Operating.Gross.Margin","[0.606,0.618)",-1.09882876231329,31
+"Operating.Gross.Margin","[0.618, Inf)",-0.806196184701652,23
+"Operating.Profit.Rate","[-Inf,0.99894)",1.35394660929192,67
+"Operating.Profit.Rate","[0.99894,0.999)",-0.20218502782293,-10
+"Operating.Profit.Rate","[0.999,0.9991)",-0.862285651352695,-42
+"Operating.Profit.Rate","[0.9991, Inf)",-2.24003924490291,-110
+"Non.industry.income.and.expenditure.revenue","[-Inf,0.30342)",1.56839944426867,-24
+"Non.industry.income.and.expenditure.revenue","[0.30342,0.30352)",-0.545264585235657,8
+"Non.industry.income.and.expenditure.revenue","[0.30352, Inf)",-1.49725158779604,23
+"Continuous.interest.rate..after.tax.","[-Inf,0.78146)",1.70298959824143,-42
+"Continuous.interest.rate..after.tax.","[0.78146,0.78158)",0.196493820600875,-5
+"Continuous.interest.rate..after.tax.","[0.78158,0.78168)",-1.21228144786845,30
+"Continuous.interest.rate..after.tax.","[0.78168,0.78172)",-2.62246668494406,65
+"Continuous.interest.rate..after.tax.","[0.78172, Inf)",-3.77908896628582,93
+"Operating.Expense.Rate","[-Inf,200000000)",0.0825830066270013,-6
+"Operating.Expense.Rate","[200000000,5000000000)",-0.484698122071568,33
+"Operating.Expense.Rate","[5000000000,7000000000)",-0.31799657725424,21
+"Operating.Expense.Rate","[7000000000,8600000000)",0.214628274854336,-14
+"Operating.Expense.Rate","[8600000000, Inf)",-0.239889326910599,16
+"Research.and.development.expense.rate","[-Inf,1600000000)",0.155436836066614,-5
+"Research.and.development.expense.rate","[1600000000,3200000000)",-0.604532440498509,18
+"Research.and.development.expense.rate","[3200000000,5600000000)",-0.18099362858776,5
+"Research.and.development.expense.rate","[5600000000,7400000000)",0.0720284332281496,-2
+"Research.and.development.expense.rate","[7400000000, Inf)",-0.796221039644832,24
+"Cash.flow.rate","[-Inf,0.462)",0.858027724107219,-13
+"Cash.flow.rate","[0.462,0.466)",0.0470975078908902,-1
+"Cash.flow.rate","[0.466,0.472)",-1.60583758755258,25
+"Cash.flow.rate","[0.472, Inf)",-2.1740207767733,34
+"Interest.bearing.debt.interest.rate","[-Inf,0.0002)",-2.05348514102099,63
+"Interest.bearing.debt.interest.rate","[0.0002,0.0004)",-0.355339826892493,11
+"Interest.bearing.debt.interest.rate","[0.0004,0.0007)",0.700922757446104,-21
+"Interest.bearing.debt.interest.rate","[0.0007,0.00105)",1.19776828883613,-37
+"Interest.bearing.debt.interest.rate","[0.00105, Inf)",-1.53349302511372,47
+"Tax.rate..A.","[-Inf,0.02)",0.765175613788095,-4
+"Tax.rate..A.","[0.02,0.1)",-1.45261063646959,8
+"Tax.rate..A.","[0.1,0.26)",-2.35918190007533,13
+"Tax.rate..A.","[0.26, Inf)",-0.422210883704554,2
+"Net.Value.Per.Share..A.","[-Inf,0.16)",2.05615979510366,-29
+"Net.Value.Per.Share..A.","[0.16,0.175)",0.139684367264823,-2
+"Net.Value.Per.Share..A.","[0.175,0.195)",-0.721982459510777,10
+"Net.Value.Per.Share..A.","[0.195, Inf)",-1.9386154914505,27
+"Persistent.EPS.in.the.Last.Four.Seasons","[-Inf,0.195)",2.32514864768069,-17
+"Persistent.EPS.in.the.Last.Four.Seasons","[0.195,0.21)",0.959559370168715,-7
+"Persistent.EPS.in.the.Last.Four.Seasons","[0.21,0.24)",-1.045706310657,7
+"Persistent.EPS.in.the.Last.Four.Seasons","[0.24, Inf)",-3.62987656809914,26
+"Realized.Sales.Gross.Profit.Growth.Rate","[-Inf,0.02198)",1.76907013973082,48
+"Realized.Sales.Gross.Profit.Growth.Rate","[0.02198,0.02202)",0.705509489121626,19
+"Realized.Sales.Gross.Profit.Growth.Rate","[0.02202,0.02207)",-0.0379568016280262,-1
+"Realized.Sales.Gross.Profit.Growth.Rate","[0.02207, Inf)",-0.495331088018244,-13
+"Operating.Profit.Growth.Rate","[-Inf,0.84788)",1.26563173439884,-32
+"Operating.Profit.Growth.Rate","[0.84788,0.84798)",0.172916657094369,-4
+"Operating.Profit.Growth.Rate","[0.84798,0.8482)",-0.33703878903769,9
+"Operating.Profit.Growth.Rate","[0.8482, Inf)",-0.822928858559768,21
+"After.tax.Net.Profit.Growth.Rate","[-Inf,0.6885)",1.60560479831873,55
+"After.tax.Net.Profit.Growth.Rate","[0.6885,0.68915)",0.850559651118349,29
+"After.tax.Net.Profit.Growth.Rate","[0.68915,0.68975)",-0.393041646817524,-14
+"After.tax.Net.Profit.Growth.Rate","[0.68975, Inf)",-1.41699385149015,-49
+"Continuous.Net.Profit.Growth.Rate","[-Inf,0.217455)",1.61399471754158,-47
+"Continuous.Net.Profit.Growth.Rate","[0.217455,0.21757)",0.820419785083326,-24
+"Continuous.Net.Profit.Growth.Rate","[0.21757,0.217625)",-0.315862104725607,9
+"Continuous.Net.Profit.Growth.Rate","[0.217625, Inf)",-1.49779129293389,44
+"Net.Value.Growth.Rate","[-Inf,0.0004)",2.32290322179057,-52
+"Net.Value.Growth.Rate","[0.0004,0.00042)",0.960706412249744,-22
+"Net.Value.Growth.Rate","[0.00042,0.00045)",-0.28789854609696,7
+"Net.Value.Growth.Rate","[0.00045, Inf)",-1.44615458352591,33
+"Cash.Reinvestment..","[-Inf,0.372)",0.878787918541029,-25
+"Cash.Reinvestment..","[0.372,0.378)",-0.0240676894673591,1
+"Cash.Reinvestment..","[0.378,0.396)",-0.579694485408281,16
+"Cash.Reinvestment..","[0.396, Inf)",-0.193587866625719,5
+"Current.Ratio","[-Inf,0.005)",1.85304519534067,66
+"Current.Ratio","[0.005,0.007)",0.716001827816078,26
+"Current.Ratio","[0.007,0.009)",0.0324543086443694,1
+"Current.Ratio","[0.009,0.016)",-0.771124558264547,-28
+"Current.Ratio","[0.016, Inf)",-2.3274941792296,-83
+"Quick.Ratio","[-Inf,0.002)",1.83996958948835,-57
+"Quick.Ratio","[0.002,0.005)",0.823114255769605,-26
+"Quick.Ratio","[0.005, Inf)",-1.40479503625996,44
+"Interest.Expense.Ratio","[-Inf,0.6306)",1.46882957513309,-29
+"Interest.Expense.Ratio","[0.6306,0.6307)",-2.52327488939756,49
+"Interest.Expense.Ratio","[0.6307,0.6313)",-3.82958224539232,74
+"Interest.Expense.Ratio","[0.6313, Inf)",0.0729869303781157,-1
+"Total.debt.Total.net.worth","[-Inf,0.005)",-2.20159906113006,114
+"Total.debt.Total.net.worth","[0.005,0.0085)",-0.8650074914799,45
+"Total.debt.Total.net.worth","[0.0085,0.01)",-0.151187500555058,8
+"Total.debt.Total.net.worth","[0.01,0.016)",0.707319444366866,-36
+"Total.debt.Total.net.worth","[0.016, Inf)",2.04066203330035,-105
+"Long.term.fund.suitability.ratio..A.","[-Inf,0.0052)",0.910813856829796,-26
+"Long.term.fund.suitability.ratio..A.","[0.0052,0.0054)",-0.0417654765580516,1
+"Long.term.fund.suitability.ratio..A.","[0.0054, Inf)",-0.627734391674856,18
+"Borrowing.dependency","[-Inf,0.374)",-1.68798622934919,-9
+"Borrowing.dependency","[0.374,0.379)",-0.231328194608566,-1
+"Borrowing.dependency","[0.379,0.382)",1.21095060631478,7
+"Borrowing.dependency","[0.382, Inf)",2.05550854141734,12
+"Contingent.liabilities.Net.worth","[-Inf,0.00615)",-0.121761106576988,6
+"Contingent.liabilities.Net.worth","[0.00615,0.007)",0.393414176815982,-19
+"Contingent.liabilities.Net.worth","[0.007, Inf)",0.540284918266928,-26
+"Total.Asset.Turnover","[-Inf,0.04)",1.10844615087643,-24
+"Total.Asset.Turnover","[0.04,0.09)",0.41951660626069,-9
+"Total.Asset.Turnover","[0.09,0.14)",-0.281819500020578,6
+"Total.Asset.Turnover","[0.14, Inf)",-0.675462443875884,15
+"Accounts.Receivable.Turnover","[-Inf,0.0005)",1.03385729388536,-63
+"Accounts.Receivable.Turnover","[0.0005,0.0006)",0.256828629344712,-16
+"Accounts.Receivable.Turnover","[0.0006,0.001)",-0.323564413467845,20
+"Accounts.Receivable.Turnover","[0.001,0.0011)",0.188277942255856,-12
+"Accounts.Receivable.Turnover","[0.0011,0.0012)",-1.50058329102492,92
+"Accounts.Receivable.Turnover","[0.0012,0.0013)",-0.26258073811267,16
+"Accounts.Receivable.Turnover","[0.0013, Inf)",0.0372099318739378,-2
+"Average.Collection.Days","[-Inf,0.004)",-0.0525844591624951,2
+"Average.Collection.Days","[0.004,0.005)",0.293544644882984,-10
+"Average.Collection.Days","[0.005,0.01)",-0.397260479356935,14
+"Average.Collection.Days","[0.01,0.013)",0.22690322604867,-8
+"Average.Collection.Days","[0.013, Inf)",1.06202817085206,-37
+"Inventory.Turnover.Rate..times.","[-Inf,200000000)",-0.178309694329613,2
+"Inventory.Turnover.Rate..times.","[200000000,3600000000)",0.737666600756158,-10
+"Inventory.Turnover.Rate..times.","[3600000000,5800000000)",0.339066727581684,-5
+"Inventory.Turnover.Rate..times.","[5800000000, Inf)",-0.247510485191672,3
+"Fixed.Assets.Turnover.Frequency","[-Inf,0.002)",-0.261344261911859,5
+"Fixed.Assets.Turnover.Frequency","[0.002,0.0145)",-0.618400615731669,12
+"Fixed.Assets.Turnover.Frequency","[0.0145, Inf)",0.742527648054138,-14
+"Net.Worth.Turnover.Rate..times.","[-Inf,0.02)",0.321086842141274,-5
+"Net.Worth.Turnover.Rate..times.","[0.02,0.036)",-0.277943498251535,4
+"Net.Worth.Turnover.Rate..times.","[0.036,0.046)",0.0227730445795194,0
+"Net.Worth.Turnover.Rate..times.","[0.046,0.054)",-0.732584367358406,11
+"Net.Worth.Turnover.Rate..times.","[0.054,0.084)",0.165768663829082,-2
+"Net.Worth.Turnover.Rate..times.","[0.084, Inf)",0.697106078325247,-10
+"Revenue.per.person","[-Inf,0.018)",-0.0700978391932458,3
+"Revenue.per.person","[0.018,0.024)",-0.78530114953081,30
+"Revenue.per.person","[0.024,0.046)",0.109510861178988,-4
+"Revenue.per.person","[0.046, Inf)",0.356458470293553,-13
+"Inventory.Current.Liability","[-Inf,0.005)",0.381123397774359,-28
+"Inventory.Current.Liability","[0.005,0.007)",0.0158539963874298,-1
+"Inventory.Current.Liability","[0.007,0.011)",-0.87369911302745,65
+"Inventory.Current.Liability","[0.011, Inf)",-0.231498857634835,17
+"Current.Liabilities.Liability","[-Inf,0.86)",0.054371716639224,-6
+"Current.Liabilities.Liability","[0.86,0.92)",0.524595392095552,-59
+"Current.Liabilities.Liability","[0.92,0.98)",-0.292056556245624,33
+"Current.Liabilities.Liability","[0.98, Inf)",-0.624370782718173,71
+"Long.term.Liability.to.Current.Assets","[-Inf,0.001)",-0.645961415310541,-18
+"Long.term.Liability.to.Current.Assets","[0.001,0.015)",0.202572866677257,6
+"Long.term.Liability.to.Current.Assets","[0.015,0.023)",-0.0365841178160541,-1
+"Long.term.Liability.to.Current.Assets","[0.023, Inf)",0.892907198947442,25
+"Current.Asset.Turnover.Rate","[-Inf,0.00012)",-0.103574986632332,2
+"Current.Asset.Turnover.Rate","[0.00012,0.00016)",-0.49665335995907,10
+"Current.Asset.Turnover.Rate","[0.00016,0.00018)",-1.11207398906331,23
+"Current.Asset.Turnover.Rate","[0.00018,0.00024)",-0.113545158952182,2
+"Current.Asset.Turnover.Rate","[0.00024,0.00036)",0.0650240482232218,-1
+"Current.Asset.Turnover.Rate","[0.00036, Inf)",0.500196561048351,-10
+"Cash.Turnover.Rate","[-Inf,200000000)",-0.531374526044245,27
+"Cash.Turnover.Rate","[200000000,2600000000)",0.790496950845774,-40
+"Cash.Turnover.Rate","[2600000000,5600000000)",0.134997005162328,-7
+"Cash.Turnover.Rate","[5600000000,8400000000)",-0.711530958160574,36
+"Cash.Turnover.Rate","[8400000000, Inf)",-1.47802594360084,74
+"Equity.to.Long.term.Liability","[-Inf,0.112)",-0.669394464092128,10
+"Equity.to.Long.term.Liability","[0.112,0.1155)",-0.154367153472437,2
+"Equity.to.Long.term.Liability","[0.1155,0.1195)",0.100709444944781,-1
+"Equity.to.Long.term.Liability","[0.1195,0.1265)",0.618362011417258,-9
+"Equity.to.Long.term.Liability","[0.1265, Inf)",1.411395695459,-21
+"Interest.Coverage.Ratio..Interest.expense.to.EBIT.","[-Inf,0.5651)",1.48733162117988,26
+"Interest.Coverage.Ratio..Interest.expense.to.EBIT.","[0.5651,0.5655)",-2.29317201766338,-40
+"Interest.Coverage.Ratio..Interest.expense.to.EBIT.","[0.5655,0.5669)",-1.26151434459038,-22
+"Interest.Coverage.Ratio..Interest.expense.to.EBIT.","[0.5669, Inf)",0.621718078689502,11
